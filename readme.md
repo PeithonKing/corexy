@@ -2,15 +2,19 @@
 
 A hand-cranked CoreXY you can hold in your hand. All the structural parts are 3D printed. The belts are two loops of cotton yarn and the screws are bits of 1.75 mm filament.
 
+[![Build video](https://img.youtube.com/vi/5hRGXHFDPp0/maxresdefault.jpg)](https://youtu.be/5hRGXHFDPp0)
+
+<p align="center">
+  <a href="https://youtu.be/5hRGXHFDPp0"><img src="https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" height="40"></a>
+  <a href="https://blogs.peithonking.com/posts/corexy/"><img src="https://img.shields.io/badge/Read_the_blog_post-F97316?style=for-the-badge&logo=rss&logoColor=white" alt="Read the blog post" height="40"></a>
+  <a href="https://makerworld.com/en/models/3693752-100-3d-printed-corexy-hand-cranked-learning-toy"><img src="https://img.shields.io/badge/Get_it_on_MakerWorld-00AE42?style=for-the-badge&logo=bambulab&logoColor=white" alt="Get it on MakerWorld" height="40"></a>
+</p>
+
 ![assembly](renders/assembly.png)
 
 I wanted to finally understand how CoreXY works, so I designed one, printed it and played with it until it clicked. Turn both knobs the same way and the carriage moves in X. Turn them opposite ways and it moves in Y. Turn one alone and it goes diagonally.
 
 <img src="renders/move_x.gif" width="32%"> <img src="renders/move_y.gif" width="32%"> <img src="renders/move_circle.gif" width="32%">
-
-[![Build video](https://img.youtube.com/vi/5hRGXHFDPp0/maxresdefault.jpg)](https://youtu.be/5hRGXHFDPp0)
-
-[Video](https://youtu.be/5hRGXHFDPp0) · [Blog post](https://blogs.peithonking.com/posts/corexy/) · [MakerWorld](https://makerworld.com/en/models/3693752-100-3d-printed-corexy-hand-cranked-learning-toy)
 
 The idea came from the [Manual CoreXY Mechanism](https://makerworld.com/en/models/1576726-manual-corexy-mechanism) ([video](https://youtu.be/tElMsCfxDCs)), which uses some non-printed parts. This is a new design, written from scratch in OpenSCAD.
 
