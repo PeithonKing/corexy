@@ -8,6 +8,8 @@ A hand-cranked CoreXY you can hold in your hand. All the structural parts are 3D
   <a href="https://youtu.be/5hRGXHFDPp0"><img src="https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" height="40"></a>
   <a href="https://blogs.peithonking.com/posts/corexy/?utm_source=github&utm_medium=readme&utm_campaign=corexy"><img src="https://img.shields.io/badge/Read_the_blog_post-F97316?style=for-the-badge&logo=rss&logoColor=white" alt="Read the blog post" height="40"></a>
   <a href="https://makerworld.com/en/models/3693752-100-3d-printed-corexy-hand-cranked-learning-toy"><img src="https://img.shields.io/badge/Get_it_on_MakerWorld-00AE42?style=for-the-badge&logo=bambulab&logoColor=white" alt="Get it on MakerWorld" height="40"></a>
+  <a href="https://www.printables.com/model/1932211-100-3d-printed-corexy-hand-cranked-learning-toy"><img src="https://img.shields.io/badge/Get_it_on_Printables-FA6831?style=for-the-badge&logo=printables&logoColor=white" alt="Get it on Printables" height="40"></a>
+  <a href="https://www.crealitycloud.com/model-detail/100-percent-3d-printed-corexy-hand-cranked-learning-toy"><img src="https://img.shields.io/badge/Get_it_on_Creality_Cloud-0369A1?style=for-the-badge&logo=creality&logoColor=white" alt="Get it on Creality Cloud" height="40"></a>
 </p>
 
 ![assembly](renders/assembly.png)
